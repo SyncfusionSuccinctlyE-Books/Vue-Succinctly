@@ -2,7 +2,7 @@
 
 This is the companion repo for [*Vue.js Succinctly*](https://www.syncfusion.com/ebooks/vuejs-succinctly) by Ed Freitas. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Vue-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/ebooks/vuejs-succinctly)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Vue-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/vuejs-succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
