@@ -1,10 +1,12 @@
-# Vue Succinctly
+# Vue.js Succinctly
 
-This is the companion repo for [*Vue Succinctly*](https://www.syncfusion.com/ebooks/) by Ed Frietas. Published by Syncfusion.
+This is the companion repo for [*Vue.js Succinctly*](https://www.syncfusion.com/ebooks/vuejs-succinctly) by Ed Freitas. Published by Syncfusion.
+
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Vue-Succinctly/blob/main/cover.png)](https://www.syncfusion.com/ebooks/vuejs-succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
-Check out the entire library of more than 150 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
+Check out the entire library of more than 190 _Succinctly_ e-books at [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks).
 
 
 
